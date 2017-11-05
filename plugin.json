@@ -4,5 +4,5 @@
     "namespace"         :"HelloWorld",
     "author"            :"Your name",
     "type"              :"template",
-    "serviceProvider"   :"helloworld\providers\HelloWorldServiceProvider"
+    "serviceProvider"   :"helloworld\providers\HelloWorldServiceProvider.php"
 }
